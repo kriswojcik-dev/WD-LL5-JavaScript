@@ -1,3 +1,5 @@
+console.log("Hello! Welcome!")
+
 // ============================================================
 //  🎟  Event Welcome Center — script.js
 //  JavaScript Foundations · Lab 5
