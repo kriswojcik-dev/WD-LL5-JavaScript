@@ -1,4 +1,10 @@
-console.log("Hello! Welcome!")
+
+let attendeeName ="Odin";
+let eventName="Cats in coding";
+let roomNumber="205";
+
+
+console.log("Welcome "+ attendeeName);
 
 // ============================================================
 //  🎟  Event Welcome Center — script.js
